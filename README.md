@@ -37,4 +37,4 @@ Finished by writing a Bash script that utilises SQL to query the database and ob
 View: <a href="https://github.com/kolipoki/fcc_world-cup-database-project/blob/main/queries.sh"> queries.sh
   </a>
 
-Database dump (after inserting data): <a href=""> worldcup.sql </a>
+Database dump (after inserting data): <a href="https://github.com/kolipoki/fcc_world-cup-database-project/blob/main/worldcup.sql"> worldcup.sql </a>
